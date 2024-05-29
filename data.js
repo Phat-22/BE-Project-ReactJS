@@ -326,20 +326,6 @@ exports.products = [
         description: 'Signs to identify a sedan based on its structure with three separate compartments: the engine compartment at the front (the hood), the passenger compartment (the body), and the luggage compartment at the rear (the trunk). In this arrangement, both the engine compartment and the luggage compartment are lower, while the passenger compartment is taller with two rows of seats. This design imparts a prestigious and luxurious appearance to the sedan. With a low chassis and good aerodynamic performance, sedan users can feel the smoothness when driving at high speeds. Moreover, sedans are also recognized for their solid handling, low noise levels, and minimal vibration.'
     },
     {
-        id: 26,
-        name: 'MAZDA 3',
-        price: 20000,
-        category: 'HATCHBACK',
-        brand: 'MAZDA',
-        image1: '/assets/images/mazda-3-HATCHBACK-xanh.png',
-        image2: '/assets/images/mazda-3-HATCHBACK-xanh.png',
-        isNew: false,
-        color: ['White', 'Black'],
-        status:'..',
-        description:'The hatchback is a small or medium-sized car suitable for families needing extra luggage space. Its structure differs slightly from that of a sedan. In a hatchback, the rear end doesnt extend into a trunk; instead, it cuts straight at the back, creating a new door. This space can be folded down to create a very flexible storage area. Additionally, the ground clearance of this type of car is relatively high, aiding in swift movement and easy traversal of rough, muddy roads.'
-
-    },
-    {
         id: 29,
         name: 'SANTAFE PREMIUM',
         price: 35000,
