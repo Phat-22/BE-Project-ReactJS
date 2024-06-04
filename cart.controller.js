@@ -22,8 +22,11 @@ exports.AddToCarts = (req, res) => {
     });
   }
 
+  let cartNumber = carts.reduce((acc, product) => acc + product.quantity, 0);
+
   res.status(200).json({
     status: "success",
+    cartNumber
   });
 };
 
